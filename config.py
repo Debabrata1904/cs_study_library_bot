@@ -1,0 +1,2 @@
+BOT_TOKEN = "7973712673:AAHSJUkwXXN1p3WsHDVYJ2jz98B6pDum19c"
+UPI_ID = "debabrata.8019-3@waaxis"
